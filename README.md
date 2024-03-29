@@ -1,1 +1,1 @@
-Expense tracking with help of Firebase.
+Expense tracking with help of Angular and Firebase.
