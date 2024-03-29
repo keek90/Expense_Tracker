@@ -1,5 +1,5 @@
 export const firebaseConfig = {
-  apiKey: "AIzaSyBcJ3jll1gAqnXU5BDD04biTPVDviByG_E",
+  apiKey: "your_api",
   authDomain: "expense-tracker-a1fe9.firebaseapp.com",
   databaseURL: "https://expense-tracker-a1fe9-default-rtdb.firebaseio.com",
   projectId: "expense-tracker-a1fe9",
